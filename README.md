@@ -1,5 +1,12 @@
 # LibphonenumberDemoAngular2
 
+This is a demo app for using the [libphonenumber-js](https://github.com/halt-hammerzeit/libphonenumber-js) lib on Angular2.
+
+Usage
+-----
+
+Clone the repo, `npm install` or `yarn` inside the folder, then `ng serve -o`. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
